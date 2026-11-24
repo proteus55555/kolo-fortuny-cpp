@@ -1,0 +1,26 @@
+# Skompilowane binarki i pliki obiektowe
+kolo_fortuny
+kolo_fortuny.exe
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.dSYM/
+a.out
+build/
+cmake-build-*/
+
+# Zrzuty pamięci
+core
+vgcore.*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
